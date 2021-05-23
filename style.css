@@ -21,6 +21,15 @@ h1 {
     font-weight: bold;
 }
 
+h5 {
+    color: rgb(197, 203, 204);
+    font-weight: bold;
+}
+
+img{
+    size: 100;
+}
+
 input, button {
     width: 35%;
     padding: 10px;
