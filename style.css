@@ -15,6 +15,10 @@ h1 {
     font-weight: lighter;
     padding: 10px;
     margin-bottom: 20px;
+    background-color: linear-gradient(90deg, rgb(93, 104, 94) 11%, rgb(9, 20, 41) 100%);
+    color: rgb(177, 85, 85);
+    font-size: small;
+    font-weight: bold;
 }
 
 input, button {
